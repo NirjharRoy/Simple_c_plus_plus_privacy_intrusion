@@ -52,8 +52,7 @@ class Intruder
 
 int main() {
 	// your code goes here
-	//Private_Member *pm= new Private_Member;
-	//Private_Member2 *pm2= reinterpret_cast<Private_Member*>(pm);
+
 
 	Private_Member *private_Member= new  Private_Member ;
 	for(int i=0; i<15;i++)
